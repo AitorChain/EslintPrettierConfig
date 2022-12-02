@@ -98,3 +98,4 @@ Install VSCODE extensions
 
     "editor.formatOnSave": false,
     "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
+    "eslint.validate": ["javascript", "typescript"],
